@@ -109,6 +109,8 @@ The LSTM model achieved a stock price prediction accuracy of **47%**. The **Powe
 The Power BI dashboard is designed to provide:
 - **Visual Charts** for stock prices and predictions.
 - **Interactive Controls** to filter by date ranges and other parameters.
+- ![image](https://github.com/user-attachments/assets/7ed7855b-dec8-43dd-8398-e24cb3c341ba)
+
 
 ## Challenges and Improvements
 - **Challenges**: The prediction accuracy was limited to **47%**, mainly due to stock market volatility and insufficient sentiment data.
