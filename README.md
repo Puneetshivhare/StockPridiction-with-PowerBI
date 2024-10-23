@@ -110,6 +110,8 @@ The Power BI dashboard is designed to provide:
 - **Visual Charts** for stock prices and predictions.
 - **Interactive Controls** to filter by date ranges and other parameters.
 - ![image](https://github.com/user-attachments/assets/7ed7855b-dec8-43dd-8398-e24cb3c341ba)
+- ![image](https://github.com/user-attachments/assets/cea3df43-98a3-4519-8b61-a138d3711ac1)
+
 
 
 ## Challenges and Improvements
